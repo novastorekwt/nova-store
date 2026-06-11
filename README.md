@@ -1,0 +1,1 @@
+NOVA Store v4 complete static project. Upload all files to GitHub root. Do not upload the ZIP itself.
